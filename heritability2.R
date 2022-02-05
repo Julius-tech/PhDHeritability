@@ -209,6 +209,6 @@ sim <- function(n){
 }
 
 
-sim(100)
+sim(1000)
 
 
